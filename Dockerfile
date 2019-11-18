@@ -1,4 +1,5 @@
 From ubuntu
+MAINTAINER Nitesh Kumar <nitesh.kumar@mindtree.com>
 RUN apt-get update
 RUN apt-get -y install openjdk-8-jdk
 RUN mkdir /var/lib/Devops
